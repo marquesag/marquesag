@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1050px" height="550px" font-size="16px">
+<style>
+.keyColor {fill: #953800;}
+.valueColor {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+  <rect width="1050px" height="550" fill="#f6f8fa" rx="15"/>
+  <text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">           g@M%@%%@N%Nw,,                   </tspan>
+<tspan x="15" y="50">        ,M*|`||*%gNM=]mM%g||%N,             </tspan>
+<tspan x="15" y="70">       p!``  &apos;! |&apos;&apos;` &apos;&apos;&apos;|||jhlj%w           </tspan>
+<tspan x="15" y="90">     ,@L `    ,,        &apos;&apos;!`|j%M]%M         </tspan>
+<tspan x="15" y="110">    ]j&apos;` .,wp@pw,    `.     &apos;&apos;&apos;&apos;|%Wg       </tspan>
+<tspan x="15" y="130">  /{||]@@@@@@@@@pp.             |||||      </tspan>
+<tspan x="15" y="150"> &apos;` &apos;]@@@@@@@@@@@@@@p     , ,&apos;&apos;&apos;` `        </tspan>
+<tspan x="15" y="170">  , :]%%@@@@@%%%%%%k%h &apos;*||mkr     *       </tspan>
+<tspan x="15" y="190">  &apos;  j%M`      |jkk&apos;   ~nrn=|i    ;`       </tspan>
+<tspan x="15" y="210">   !  jrr*^`             `&quot;!  L&apos;&apos;:!   </tspan>
+<tspan x="15" y="230">    j  lp;,.  ,/ @@    ,;\nmy &quot;  ,~   </tspan>
+<tspan x="15" y="250">   i r @@@@mmHM @@@@ `^****M*,p ;,         </tspan>
+<tspan x="15" y="270">   | ]@@@@HHH]g@M%%%%%H,jmgpmb%  j         </tspan>
+<tspan x="15" y="290">    ;;%%%%%k%@[,.n|;.;j%%k|%k%%&apos;,[         </tspan>
+<tspan x="15" y="310">     H|%%k%%%j%k||,;;j;!!&apos;|%ij}]@          </tspan>
+<tspan x="15" y="330">     &quot;djjmkL,&quot;]][,,,,wwxw;|#kjk` </tspan>
+<tspan x="15" y="350">       %;%km%%%%M%M|%%jkkii|||[            </tspan>
+<tspan x="15" y="370">        kjj%%kkkl|!||||||j|||&quot;        </tspan>
+<tspan x="15" y="390">         |jm%H@@@b%%kkmk%i|!,[             </tspan>
+<tspan x="15" y="410">         @p|j%%%%jkk|||j*&apos;`;j[             </tspan>
+<tspan x="15" y="430">        ]@@@g|&apos;&apos;&apos;`&apos;&apos;&apos;  ` ,;j%k             </tspan>
+<tspan x="15" y="450">        @@@@@mgmp;,,,,:;jj%%k%             </tspan>
+<tspan x="15" y="470">       @@@@@@@@%%kgki!|jjjj%k%@ .          </tspan>
+<tspan x="15" y="490">. ^[&apos;&apos; %@@@@HH%b%k{illljkjj%%%% ; `,.      </tspan>
+<tspan x="15" y="510">=[&apos; ` . %HH%%%%%H@gkilljjj%kk%&quot;.   `&apos;i</tspan>
+</text>
+  <text x="370" y="30" fill="#24292f">
+<tspan x="370" y="30">lucas@marques</tspan>
+<tspan x="370" y="50">——————</tspan>
+<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Linux, iOS</tspan>
+<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years and few months</tspan>
+<tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">International University Center</tspan><tspan class="commentColor"> #UNINTER</tspan>
+<tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Software Engineering</tspan><tspan class="commentColor"> #2022</tspan>
+<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.90.2, Webstorm 1.5</tspan>
+<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">TypeScript, Python, PHP</tspan>
+<tspan x="370" y="210" class="keyColor">Resources</tspan>.<tspan class="keyColor">FrontEnd</tspan>: <tspan class="valueColor">React JS, shadcdn/ui, Tailwind CSS, Chakra UI</tspan>
+<tspan x="370" y="230" class="keyColor">Resources</tspan>.<tspan class="keyColor">Others</tspan>: <tspan class="valueColor">Electron, Pandas, NumPy, JSON, XML, YAML, Express JS, Sass</tspan>
+<tspan x="370" y="270" class="keyColor">Techs</tspan>.<tspan class="keyColor">Machine</tspan>: <tspan class="valueColor">AWS, Azure, Docker, Ansible</tspan>
+<tspan x="370" y="290" class="keyColor">Techs</tspan>.<tspan class="keyColor">Data</tspan>: <tspan class="valueColor">MySQL, PostgreSQL, MongoDB</tspan>
+<tspan x="370" y="330" class="keyColor">Contact</tspan>:
+<tspan x="370" y="350">——————</tspan>
+<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">marqueslucascg@gmail.com</tspan>
+<tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">marquesag</tspan>
+<tspan x="370" y="410" class="keyColor">Figma</tspan>: <tspan class="valueColor">@marquesag</tspan>
+<tspan x="370" y="450" class="keyColor">Articles on</tspan> medium.com
+<tspan x="370" y="470">——————</tspan>
+<tspan x="370" y="490" class="keyColor">Desvendando a Segurança do Tor — Ataques de Correlação</tspan><tspan class=""> | bit.ly/3VYK44p</tspan> 
+<tspan x="370" y="510" class="keyColor">Otimização de Arquivos com CDN: Cloudinary</tspan><tspan class=""> | bit.ly/3L07i3H</tspan>
+</text>
+</svg>

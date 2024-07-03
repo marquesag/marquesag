@@ -44,10 +44,10 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">International University Center</tspan><tspan class="commentColor"> #UNINTER</tspan>
 <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Software Engineering</tspan><tspan class="commentColor"> #2022</tspan>
 <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.90.2, Webstorm 1.5</tspan>
-<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">TypeScript, Python, PHP</tspan>
+<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">JavaScript (w/ TS), Python, PHP</tspan>
 <tspan x="370" y="210" class="keyColor">Resources</tspan>.<tspan class="keyColor">FrontEnd</tspan>: <tspan class="valueColor">React JS, shadcdn/ui, Tailwind CSS, Chakra UI</tspan>
 <tspan x="370" y="230" class="keyColor">Resources</tspan>.<tspan class="keyColor">Others</tspan>: <tspan class="valueColor">Electron, Pandas, NumPy, JSON, XML, YAML, Express JS, Sass</tspan>
-<tspan x="370" y="270" class="keyColor">Techs</tspan>.<tspan class="keyColor">Machine</tspan>: <tspan class="valueColor">AWS, Azure, Docker, Ansible</tspan>
+<tspan x="370" y="270" class="keyColor">Techs</tspan>.<tspan class="keyColor">Virtualize</tspan>: <tspan class="valueColor">AWS, Azure, Docker, Ansible</tspan>
 <tspan x="370" y="290" class="keyColor">Techs</tspan>.<tspan class="keyColor">Data</tspan>: <tspan class="valueColor">MySQL, PostgreSQL, MongoDB</tspan>
 <tspan x="370" y="330" class="keyColor">Contact</tspan>:
 <tspan x="370" y="350">——————</tspan>
